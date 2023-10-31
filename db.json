@@ -29,5 +29,17 @@
       "id": 3,
       "name": "Azmal"
     }
+  ],
+  "users": [
+    {
+      "id": "rouzex@gmail.com",
+      "channelId": "rouzex"
+    }
+  ],
+  "channels": [
+    {
+      "id": "rouzex",
+      "courses": ["react", "vuew", "angular"]
+    }
   ]
 }
